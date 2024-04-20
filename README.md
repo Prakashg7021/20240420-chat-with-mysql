@@ -3,4 +3,4 @@ Introduction
 #
 💡 Quick Links:
 
-Chinook Database for MySQL: Chinook_MySql.sql
+Chinook Database for MySQL: [Chinook_MySql.sql](https://github.com/lerocha/chinook-database/releases/download/v1.4.5/Chinook_MySql.sql)

@@ -148,10 +148,13 @@ print(f"Prompt price: ${prompt_price:.5f}")
 
   # Final outout:
 
-**{'question': 'how many  are user there in album', 'query': 'SELECT COUNT(DISTINCT ArtistId) AS Total_Artists\nFROM album;', 'response': '[(204,)]'}**
-**Input tokens: 8**
-**Output tokens: 43**
-**Prompt price: $0.00200**
+{'question': 'how many  are user there in album', 'query': 'SELECT COUNT(DISTINCT ArtistId) AS Total_Artists\nFROM album;', 'response': '[(204,)]'}
+
+Input tokens: 8**
+
+Output tokens: 43**
+
+Prompt price: $0.00200
 
 
 ## Conclusion

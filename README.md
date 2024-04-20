@@ -160,3 +160,5 @@ Prompt price: $0.00200
 ## Conclusion
 
 This project demonstrates the integration of OpenAI's GPT-3 with SQL databases, enabling users to generate SQL queries from natural language questions. By leveraging LangChain and TikToken libraries, we've created a robust pipeline for prompt-based querying. With its straightforward setup and ease of use, this project offers a powerful tool for anyone needing quick and accurate SQL query generation.
+
+**Thank you for exploring this project! If you have any questions or suggestions, feel free to reach out**.

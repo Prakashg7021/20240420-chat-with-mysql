@@ -1,2 +1,6 @@
-# 20240420-chat-with-mysql
-Chat With a MySQL Database Using Python and LangChain
+# Chat With a MySQL Database Using Python and LangChain
+Introduction
+#
+💡 Quick Links:
+
+Chinook Database for MySQL: Chinook_MySql.sql

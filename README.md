@@ -15,7 +15,16 @@ As you can see in the diagram above, we will first create a SQL chain that will 
 # Prerequisites
 Before we start, make sure you have the following installed:
 
-Python 3.9 or later
-MySQL
+**Python 3.9 or later**
+
+**MySQL**
+
+# Setting Up the Test Database
+
+First of all, let’s download the [Chinook database](https://github.com/lerocha/chinook-database/releases/download/v1.4.5/Chinook_MySql.sql) . This is a sample database that represents a digital media store, including tables for artists, albums, media tracks, invoices, and customers. We will use this database to test our chatbot.
+
+For easy access, you can download the latest SQL file from [this link](https://github.com/lerocha/chinook-database/releases/download/v1.4.5/Chinook_MySql.sql).
+
+Now, let’s set up the database. We will use both SQLite and MySQL to demonstrate how to chat with a database using Python and LangChain. I am including both databases because SQLite is easy to set up and use, while MySQL is widely used in production.
 
 

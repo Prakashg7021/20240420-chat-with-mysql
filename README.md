@@ -27,6 +27,16 @@ For easy access, you can download the latest SQL file from [this link](https://g
 
 Now, let’s set up the database. We will use both SQLite and MySQL to demonstrate how to chat with a database using Python and LangChain. I am including both databases because SQLite is easy to set up and use, while MySQL is widely used in production.
 
+## MySQL
+
+In this section, we will set up the MySQL database in your local environment so that we can chat with it using Python and LangChain. MySQL is a popular open-source relational database management system. It is widely used in web development and is known for its speed and reliability.
+
+## Installing MySQL
+
+You can download MySQL from the [official website]https://dev.mysql.com/downloads/mysql/.If you want a detailed tutorial on how to install MySQL on your machine, you can check the following articles:
+
+[How to Install MySQL on Windows by Amit]https://www.youtube.com/watch?v=uj4OYk5nKCg
+
 # Below is a breakdown of each line of code with explanations
 
 ```python

@@ -27,7 +27,7 @@ For easy access, you can download the latest SQL file from [this link](https://g
 
 Now, let’s set up the database. We will use both SQLite and MySQL to demonstrate how to chat with a database using Python and LangChain. I am including both databases because SQLite is easy to set up and use, while MySQL is widely used in production.
 
-Certainly! Below is a breakdown of each line of code with explanations for your README.md:
+# Below is a breakdown of each line of code with explanations
 
 ```python
 import os
@@ -145,3 +145,16 @@ print(f"Output tokens: {num_out_tokens}")
 print(f"Prompt price: ${prompt_price:.5f}")
 ```
 - Prints the number of tokens in the input and output strings, as well as the calculated prompt price with five decimal places.
+
+  # Final outout
+
+  # Output:
+{'question': 'how many  are user there in album', 'query': 'SELECT COUNT(DISTINCT ArtistId) AS Total_Artists\nFROM album;', 'response': '[(204,)]'}
+Input tokens: 8
+Output tokens: 43
+Prompt price: $0.00200
+
+
+## Conclusion
+
+This project demonstrates the integration of OpenAI's GPT-3 with SQL databases, enabling users to generate SQL queries from natural language questions. By leveraging LangChain and TikToken libraries, we've created a robust pipeline for prompt-based querying. With its straightforward setup and ease of use, this project offers a powerful tool for anyone needing quick and accurate SQL query generation.

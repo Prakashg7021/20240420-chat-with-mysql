@@ -33,9 +33,9 @@ In this section, we will set up the MySQL database in your local environment so 
 
 ## Installing MySQL
 
-You can download MySQL from the [official website]https://dev.mysql.com/downloads/mysql/.If you want a detailed tutorial on how to install MySQL on your machine, you can check the following articles:
+You can download MySQL from the [official website](https://dev.mysql.com/downloads/mysql/) .If you want a detailed tutorial on how to install MySQL on your machine, you can check the following articles:
 
-[How to Install MySQL on Windows by Amit]https://www.youtube.com/watch?v=uj4OYk5nKCg
+[How to Install MySQL on Windows by Amit](https://www.youtube.com/watch?v=uj4OYk5nKCg)
 
 # Below is a breakdown of each line of code with explanations
 
